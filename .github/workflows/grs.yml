@@ -2,8 +2,11 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -15,16 +18,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: >-
-            username=${{ github.repository_owner }}
-            &show_icons=true
-            &count_private=true
-            &title_color=4A5C3A
-            &text_color=5C4035
-            &icon_color=8FA678
-            &bg_color=FAF5EC
-            &border_color=C4A898
-            &border_radius=12
+          options: "username=${{ github.repository_owner }}&show_icons=true&count_private=true&title_color=4A5C3A&text_color=5C4035&icon_color=8FA678&bg_color=FAF5EC&border_color=C4A898&border_radius=12"
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -32,15 +26,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: >-
-            username=${{ github.repository_owner }}
-            &layout=compact
-            &langs_count=6
-            &title_color=4A5C3A
-            &text_color=5C4035
-            &bg_color=FAF5EC
-            &border_color=C4A898
-            &border_radius=12
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=6&title_color=4A5C3A&text_color=5C4035&bg_color=FAF5EC&border_color=C4A898&border_radius=12"
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
