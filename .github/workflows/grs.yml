@@ -2,8 +2,8 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # Roda todo dia às 03h UTC
-  workflow_dispatch:        # Permite rodar manualmente
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -43,6 +43,12 @@ jobs:
             &border_radius=12
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card
+        run: |
+          mkdir -p profile
+          curl -s "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&background=FAF5EC&border=C4A898&stroke=DDD3C2&ring=6B7C5A&fire=8FA678&currStreakNum=4A5C3A&sideNums=6B7C5A&currStreakLabel=6B7C5A&sideLabels=A68B74&dates=A68B74&border_radius=12&type=svg" \
+            -o profile/streak.svg
 
       - name: Commit cards
         run: |
