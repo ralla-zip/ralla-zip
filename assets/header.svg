@@ -3,7 +3,7 @@
   <!-- Name -->
   <text x="400" y="50" text-anchor="middle"
     font-family="Georgia, 'Times New Roman', serif"
-    font-size="38" font-weight="700" fill="#4A5C3A">Melissa Ralla</text>
+    font-size="38" font-weight="700" fill="#4A5C3A">Mel Ralla</text>
 
   <!-- AppSec pill -->
   <rect x="248" y="65" width="70" height="26" rx="13" fill="#4A5C3A"/>
