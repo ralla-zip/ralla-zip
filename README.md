@@ -1,11 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=4A5C3A&fontColor=7d7e58&height=80&section=header"/>
+
 <div align="center">
-  <img src="assets/header.svg" alt="Melissa Ralla — AppSec · DevSecOps · AI Builder" width="100%" />
+  <img src="header.svg" alt="Melissa Ralla — AppSec · DevSecOps · AI Builder" width="100%" />
 </div>
 
 <br/>
 
-<img src="assets/title-about.svg" alt="About me" width="100%" />
+<img src="title-about.svg" alt="About me" width="100%" />
 
 > Security consultant. AI-powered builder. Not a traditional developer — someone who uses AI to build sharp, purposeful things.
 
@@ -13,21 +14,27 @@ I work at the intersection of **Application Security**, **DevSecOps**, and **str
 
 My toolkit spans Veracode, Salt Security, Appdome, BugCrowd, and more — but what I actually deliver is clear thinking, good documentation, and automation that saves hours.
 
-Currently at **[Afrikatec](https://afrikatec.com.br)**, driving AppSec programs across clients.
+Currently at **[Afrikatec](https://afrikatec.com.br)**!
 
 <br/>
 
-<img src="assets/title-stats.svg" alt="GitHub Stats" width="100%" />
+<img src="title-stats.svg" alt="GitHub Stats" width="100%" />
 
 <div align="center">
+
 <img height="170em" src="./profile/stats.svg" alt="Mel's GitHub Stats" />
 &nbsp;&nbsp;
 <img height="170em" src="./profile/langs.svg" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="./profile/streak.svg" alt="GitHub Streak" />
+
 </div>
+
 <br/>
 
-
-<img src="assets/title-contact.svg" alt="Contact" width="100%" />
+<img src="title-contact.svg" alt="Contact" width="100%" />
 
 <div align="center">
 
