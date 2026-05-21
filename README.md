@@ -1,11 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=7d7e58&fontColor=7d7e58&height=80&section=header"/>
 <div align="center">
   <img src="assets/header.svg" alt="Melissa Ralla — AppSec · DevSecOps · AI Builder" width="100%" />
 </div>
 
----
+<br/>
 
-## 🌿 About me
+<img src="assets/title-about.svg" alt="About me" width="100%" />
 
 > Security consultant. AI-powered builder. Not a traditional developer — someone who uses AI to build sharp, purposeful things.
 
@@ -15,9 +14,9 @@ My toolkit spans Veracode, Salt Security, Appdome, BugCrowd, and more — but wh
 
 Currently at **[Afrikatec](https://afrikatec.com.br)** 🇧🇷, driving AppSec programs across clients in fintech, energy, and enterprise.
 
----
+<br/>
 
-## 📊 GitHub Stats
+<img src="assets/title-stats.svg" alt="GitHub Stats" width="100%" />
 
 <div align="center">
 
@@ -27,9 +26,9 @@ Currently at **[Afrikatec](https://afrikatec.com.br)** 🇧🇷, driving AppSec 
 
 </div>
 
----
+<br/>
 
-## 📬 Contact
+<img src="assets/title-contact.svg" alt="Contact" width="100%" />
 
 <div align="center">
 
