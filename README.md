@@ -12,8 +12,6 @@
 
 I work at the intersection of **Application Security**, **DevSecOps**, and **strategic consulting** helping companies build secure products without slowing down their teams.
 
-My toolkit spans Veracode, Salt Security, Appdome, BugCrowd, and more — but what I actually deliver is clear thinking, good documentation, and automation that saves hours.
-
 Currently at **Afrikatec**!
 
 <br/>
