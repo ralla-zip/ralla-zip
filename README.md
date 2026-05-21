@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=4A5C3A&fontColor=7d7e58&height=80&section=header"/>
 <div align="center">
   <img src="assets/header.svg" alt="Melissa Ralla — AppSec · DevSecOps · AI Builder" width="100%" />
 </div>
