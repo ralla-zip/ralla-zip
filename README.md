@@ -8,9 +8,9 @@
 
 <img src="title-about.svg" alt="About me" width="100%" />
 
-> Security consultant. AI-powered builder. Not a traditional developer — someone who uses AI to build sharp, purposeful things.
+> Security consultant. AI-powered builder.
 
-I work at the intersection of **Application Security**, **DevSecOps**, and **strategic consulting** — helping companies build secure products without slowing down their teams.
+I work at the intersection of **Application Security**, **DevSecOps**, and **strategic consulting** helping companies build secure products without slowing down their teams.
 
 My toolkit spans Veracode, Salt Security, Appdome, BugCrowd, and more — but what I actually deliver is clear thinking, good documentation, and automation that saves hours.
 
