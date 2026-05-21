@@ -20,14 +20,12 @@ Currently at **[Afrikatec](https://afrikatec.com.br)** 🇧🇷, driving AppSec 
 <img src="assets/title-stats.svg" alt="GitHub Stats" width="100%" />
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ralla-zip&show_icons=true&count_private=true&title_color=4A5C3A&text_color=5C4035&icon_color=8FA678&bg_color=FAF5EC&border_color=C4A898&border_radius=12&cache_seconds=1800" alt="Mel's GitHub Stats" />
+<img height="170em" src="./profile/stats.svg" alt="Mel's GitHub Stats" />
 &nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralla-zip&layout=compact&title_color=4A5C3A&text_color=5C4035&bg_color=FAF5EC&border_color=C4A898&border_radius=12&langs_count=6&cache_seconds=1800" alt="Top Languages" />
-
+<img height="170em" src="./profile/langs.svg" alt="Top Languages" />
 </div>
-
 <br/>
+
 
 <img src="assets/title-contact.svg" alt="Contact" width="100%" />
 
