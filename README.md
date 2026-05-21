@@ -14,7 +14,7 @@ I work at the intersection of **Application Security**, **DevSecOps**, and **str
 
 My toolkit spans Veracode, Salt Security, Appdome, BugCrowd, and more — but what I actually deliver is clear thinking, good documentation, and automation that saves hours.
 
-Currently at **[Afrikatec](https://afrikatec.com.br)**!
+Currently at **Afrikatec**!
 
 <br/>
 
