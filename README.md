@@ -16,22 +16,6 @@ Currently at **Afrikatec**!
 
 <br/>
 
-<img src="title-stats.svg" alt="GitHub Stats" width="100%" />
-
-<div align="center">
-
-<img height="170em" src="./profile/stats.svg" alt="Mel's GitHub Stats" />
-&nbsp;&nbsp;
-<img height="170em" src="./profile/langs.svg" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="./profile/streak.svg" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
 <img src="title-contact.svg" alt="Contact" width="100%" />
 
 <div align="center">
